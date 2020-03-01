@@ -22,12 +22,18 @@
     <SccProvider>SAK</SccProvider>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppxBundle>Always</AppxBundle>
-    <AppxBundlePlatforms>x86</AppxBundlePlatforms>
+    <AppxBundlePlatforms>x64</AppxBundlePlatforms>
     <AppxSymbolPackageEnabled>True</AppxSymbolPackageEnabled>
     <UseDotNetNativeSharedAssemblyFrameworkPackage>False</UseDotNetNativeSharedAssemblyFrameworkPackage>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
-    <AppInstallerUpdateFrequency>1</AppInstallerUpdateFrequency>
+    <AppInstallerUpdateFrequency>0</AppInstallerUpdateFrequency>
     <AppInstallerCheckForUpdateFrequency>OnApplicationRun</AppInstallerCheckForUpdateFrequency>
+    <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
+    <PackageCertificateThumbprint>3DDFFCB293CC93366A773E24381229B3A3D7A1DD</PackageCertificateThumbprint>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
+    <AppxPackageDir>C:\Users\Losses\temp_dev\LightPlayer\App\Light\AppPackages\x64</AppxPackageDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>
@@ -119,14 +125,17 @@
     <Content Include="Assets\silence.mp3">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Square44x44Logo.altform-unplated_targetsize-32.png" />
     <Content Include="Assets\Square44x44Logo.targetsize-24.png" />
     <EmbeddedResource Include="Resource\ttlyrics.js" />
     <EmbeddedResource Include="Resource\xiami.js" />
     <None Include="App.Config" />
     <Content Include="AppleMusicMarketConfiguration.json" />
     <Content Include="Assets\segmdl2_1.ttf" />
+    <None Include="Light_TemporaryKey.pfx" />
     <None Include="Service References\Application Insights\ConnectedService.json" />
     <EmbeddedResource Include="Resource\netease.js" />
+    <Content Include="Assets\Square44x44Logo.targetsize-32.png" />
     <Content Include="OSSLICENSE.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

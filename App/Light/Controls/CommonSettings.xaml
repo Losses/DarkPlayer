@@ -522,7 +522,7 @@
                 MaxWidth="500"
                 x:Uid="TelemetryDescription"
                 Margin="0,10,0,0"
-                Text="Enabling Telemetry can help us improve Light. Telemetry data contains crash info, device OEM and model, performance statistics. No personal identity or data will be collected, and you can change it later."
+                Text="Enabling Telemetry can help us improve Dark Player. Telemetry data contains crash info, device OEM and model, performance statistics. No personal identity or data will be collected, and you can change it later."
                 Style="{StaticResource BodyTextBlockStyle}"/>
             <ToggleSwitch 
                 x:Uid="TelemetryToggle"

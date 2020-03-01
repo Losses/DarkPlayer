@@ -147,8 +147,8 @@
   <data name="ComingSoonTextBlock.Text" xml:space="preserve">
     <value>Coming Soon</value>
   </data>
-  <data name="Copyright.Text" xml:space="preserve">
-    <value>© 2015 - 2018 Little Moe, LLC and Open Source Authors. For OSS licenses, click the link below to learn more.</value>
+  <data name="CopyrightL1.Text" xml:space="preserve">
+    <value>© 2015 - 2018 Little Moe, LLC and Open Source Authors.</value>
   </data>
   <data name="Extensibility.Text" xml:space="preserve">
     <value>EXTENSIBILITY</value>
@@ -283,7 +283,7 @@
     <value>All the modifications will be effective only in library.</value>
   </data>
   <data name="DrmNotDupportedContent.Text" xml:space="preserve">
-    <value>Either the we don't support the file, or you are trying to play a Groove Music cached file. Due to copyright restriction, we cannot play this file in Light. Try playing it in Groove Music.</value>
+    <value>Either the we don't support the file, or you are trying to play a Groove Music cached file. Due to copyright restriction, we cannot play this file in Dark. Try playing it in Groove Music.</value>
   </data>
   <data name="DrmNotSupported.PrimaryButtonText" xml:space="preserve">
     <value>OK</value>
@@ -328,10 +328,10 @@
     <value>Automatically Ignore DRM-protected files</value>
   </data>
   <data name="InitialProvisionSubTextBlock.Text" xml:space="preserve">
-    <value>With Light, focus on music again.</value>
+    <value>With Dark, focus on music again.</value>
   </data>
   <data name="InitialProvisionTextBlock.Text" xml:space="preserve">
-    <value>Welcome to Light</value>
+    <value>Welcome to Dark</value>
   </data>
   <data name="InitialSettingsSubHeader.Text" xml:space="preserve">
     <value>Before we get started, please review the initial settings.</value>
@@ -394,7 +394,7 @@
     <value>Settings</value>
   </data>
   <data name="TelemetryDescription.Text" xml:space="preserve">
-    <value>Enabling Telemetry can help us improve Light. Telemetry data contains crash info, device OEM and model, performance statistics. No personal identity or data will be collected, and you can change it later.</value>
+    <value>Enabling Telemetry can help us improve Dark, Telemetry data contains crash info, device OEM and model, performance statistics. No personal identity or data will be collected, and you can change it later.</value>
   </data>
   <data name="TelemetryToggle.Header" xml:space="preserve">
     <value>Enable Application Telemetry</value>
@@ -586,7 +586,7 @@
     <value>Library</value>
   </data>
   <data name="LiveTileLine3" xml:space="preserve">
-    <value>Playing in Light</value>
+    <value>Playing in Dark</value>
   </data>
   <data name="ManualSelectLyricButtonText" xml:space="preserve">
     <value>Select Lyric File</value>
@@ -745,7 +745,7 @@
     <value>Please note that, if you have enabled telemetry in settings, your anonymous tracking ID will be sent altogether with your feedback for product analysis. These information cannot be used for tracking purpose. For more details, refer to our privacy policy.</value>
   </data>
   <data name="CertValidationFailureMessage" xml:space="preserve">
-    <value>Light cannot verify app server's identity. To protect your privacy, feedback will not be sent. Check your network condition (Wi-Fi captive authentication portal or something else) and continue.</value>
+    <value>Dark cannot verify app server's identity. To protect your privacy, feedback will not be sent. Check your network condition (Wi-Fi captive authentication portal or something else) and continue.</value>
   </data>
   <data name="CertValidationFailureTitle" xml:space="preserve">
     <value>Security Warning!</value>
@@ -769,7 +769,7 @@
     <value>Submit</value>
   </data>
   <data name="FeedbackTitle.Text" xml:space="preserve">
-    <value>Feedback to Little Moe, LLC</value>
+    <value>Feedback to Axiom Design</value>
   </data>
   <data name="FeedbackTypeBug.Content" xml:space="preserve">
     <value>Bug</value>
@@ -817,7 +817,7 @@
     <value>Unknown Property: {0}</value>
   </data>
   <data name="FeedbackTooltip.Content" xml:space="preserve">
-    <value>Feedback to Little Moe, LLC</value>
+    <value>Feedback to Axiom Design</value>
   </data>
   <data name="FullscreenTooltip.Content" xml:space="preserve">
     <value>Switch window/fullscreen mode</value>
@@ -973,7 +973,7 @@
     <value>File access authorization</value>
   </data>
   <data name="FileOpenFailureDescription.Text" xml:space="preserve">
-    <value>Light does not have access to these files or they do not exist. Please use file picker to authorize the access, or drag the file here.</value>
+    <value>Dark does not have access to these files or they do not exist. Please use file picker to authorize the access, or drag the file here.</value>
   </data>
   <data name="NoLrcSourcePromptPart1.Text" xml:space="preserve">
     <value>No lyrics download source available.
@@ -992,10 +992,10 @@ Please </value>
     <value> lyrics manually.</value>
   </data>
   <data name="AccessAuthorizeSuggestDetailed.Text" xml:space="preserve">
-    <value>Light Player will not scan these folders by default, but in case you open cue files or playlists which contain audio tracks in these folders, Light Player will be able to open them without bothering you.</value>
+    <value>Dark Player will not scan these folders by default, but in case you open cue files or playlists which contain audio tracks in these folders, Dark Player will be able to open them without bothering you.</value>
   </data>
   <data name="AlreadyHaveAccessPrompt" xml:space="preserve">
-    <value>Light Player already have access to this folder.</value>
+    <value>Dark Player already have access to this folder.</value>
   </data>
   <data name="FileAccessIntro.Text" xml:space="preserve">
     <value>Choose where we can access your files.</value>
@@ -1151,7 +1151,7 @@ Please </value>
     <value>Theme &amp; Language</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Light Media Player</value>
+    <value>Dark Player</value>
   </data>
   <data name="AlbumNameGroupDescription" xml:space="preserve">
     <value>Sort and group items by their album name.</value>
@@ -1512,5 +1512,11 @@ Library file tracking has been disabled.</value>
   </data>
   <data name="NarrowPlaylistToggleButton.Label" xml:space="preserve">
     <value>Now Playing</value>
+  </data>
+  <data name="CopyrightL2.Text" xml:space="preserve">
+    <value>© 2020 Axiom Design and Open Source Authors.</value>
+  </data>
+  <data name="CopyrightOSS.Text" xml:space="preserve">
+    <value>For OSS licenses, click the link below to learn more.</value>
   </data>
 </root>

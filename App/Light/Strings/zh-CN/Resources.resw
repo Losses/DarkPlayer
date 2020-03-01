@@ -144,8 +144,8 @@
   <data name="ComingSoonTextBlock.Text" xml:space="preserve">
     <value>即将推出</value>
   </data>
-  <data name="Copyright.Text" xml:space="preserve">
-    <value>© 2015 - 2018 Little Moe, LLC 和开源组件作者们。若需了解更多有关开放源代码许可的信息，请点击下面的链接。</value>
+  <data name="CopyrightL1.Text" xml:space="preserve">
+    <value>© 2015 - 2018 Little Moe, LLC 及其他开源组件作者。</value>
   </data>
   <data name="Extensibility.Text" xml:space="preserve">
     <value>插件</value>
@@ -220,7 +220,7 @@
     <value>将添加到列表</value>
   </data>
   <data name="AdfsUnauthorizedContent" xml:space="preserve">
-    <value>阁下没有使用内部发行版的权限，或是部署了一个未经授权的安装包。阁下需要有效的 Windows 应用商店许可才能够使用 Light 播放器。请检查安装源，或联系 Little Moe, LLC IT 部门。</value>
+    <value>阁下没有使用内部发行版的权限，或是部署了一个未经授权的安装包。阁下需要有效的 Windows 应用商店许可才能够使用 Dark 播放器。请检查安装源，或联系 Axiom Design。</value>
     <comment>This translation is different from the original en-US one.</comment>
   </data>
   <data name="AdfsUnauthorizedTitle" xml:space="preserve">
@@ -275,10 +275,10 @@
     <value>继续</value>
   </data>
   <data name="DatabaseOnlyTipTextBlock.Text" xml:space="preserve">
-    <value>所有对元数据所进行的修改仅在 Light 播放器内有效。</value>
+    <value>所有对元数据所进行的修改仅在 Dark 播放器内有效。</value>
   </data>
   <data name="DrmNotDupportedContent.Text" xml:space="preserve">
-    <value>我们不支持该类型的文件，或是你正在尝试播放由 Groove 音乐 缓存的文件。因相关版权原因，我们暂时无法在 Light 播放器中播放此文件。请尝试使用 Groove 音乐 播放此文件。</value>
+    <value>我们不支持该类型的文件，或是你正在尝试播放由 Groove 音乐 缓存的文件。因相关版权原因，我们暂时无法在 Dark 播放器中播放此文件。请尝试使用 Groove 音乐 播放此文件。</value>
   </data>
   <data name="DrmNotSupported.PrimaryButtonText" xml:space="preserve">
     <value>好的</value>
@@ -323,10 +323,10 @@
     <value>自动忽略含有 DRM 版权保护的文件</value>
   </data>
   <data name="InitialProvisionSubTextBlock.Text" xml:space="preserve">
-    <value>Light 播放器，回归音乐的本源。</value>
+    <value>Dark 播放器，回归音乐的本源。</value>
   </data>
   <data name="InitialProvisionTextBlock.Text" xml:space="preserve">
-    <value>欢迎来到 Light 播放器</value>
+    <value>欢迎来到 Dark 播放器</value>
   </data>
   <data name="InitialSettingsSubHeader.Text" xml:space="preserve">
     <value>在我们开始之前，请确定各项设置符合阁下的需求。</value>
@@ -389,7 +389,7 @@
     <value>设置</value>
   </data>
   <data name="TelemetryDescription.Text" xml:space="preserve">
-    <value>启用遥测数据能够帮助我们不断对 Light 播放器进行改进。遥测数据包括应用崩溃报告、设备制造商、设备型号及性能统计数据。我们不会收集任何可识别的个人信息，你也可以于稍后开启 / 关闭遥测数据。</value>
+    <value>启用遥测数据能够帮助我们不断对 Dark 播放器进行改进。遥测数据包括应用崩溃报告、设备制造商、设备型号及性能统计数据。我们不会收集任何可识别的个人信息，你也可以于稍后开启 / 关闭遥测数据。</value>
   </data>
   <data name="TelemetryToggle.Header" xml:space="preserve">
     <value>启用遥测数据</value>
@@ -590,7 +590,7 @@
     <value>媒体库</value>
   </data>
   <data name="LiveTileLine3" xml:space="preserve">
-    <value>在 Light 中播放</value>
+    <value>在 Dark 中播放</value>
   </data>
   <data name="ManualSelectLyricButtonText" xml:space="preserve">
     <value>选择歌词文件</value>
@@ -749,7 +749,7 @@
     <value>请注意：如果阁下在设置中启用了遥测，则一个用于分析产品质量匿名 ID 将会随反馈一起发送。这些信息将不能用于跟踪阁下的活动。关于具体信息，请参见我们的隐私声明。</value>
   </data>
   <data name="CertValidationFailureMessage" xml:space="preserve">
-    <value>Light 不能验证服务器的身份。为了保证阁下的信息安全，反馈将不会被发送。请检查网络环境（例如 Wi-Fi 认证服务器等）并再试一次。</value>
+    <value>Dark 不能验证服务器的身份。为了保证阁下的信息安全，反馈将不会被发送。请检查网络环境（例如 Wi-Fi 认证服务器等）并再试一次。</value>
   </data>
   <data name="CertValidationFailureTitle" xml:space="preserve">
     <value>安全警告！</value>
@@ -773,7 +773,7 @@
     <value>提交</value>
   </data>
   <data name="FeedbackTitle.Text" xml:space="preserve">
-    <value>向 Little Moe, LLC 反馈</value>
+    <value>向 Axiom Design 反馈</value>
   </data>
   <data name="FeedbackTypeBug.Content" xml:space="preserve">
     <value>问题</value>
@@ -821,7 +821,7 @@
     <value>未知属性: {0}</value>
   </data>
   <data name="FeedbackTooltip.Content" xml:space="preserve">
-    <value>向 Little Moe, LLC 反馈</value>
+    <value>向 Axiom Design 反馈</value>
   </data>
   <data name="FullscreenTooltip.Content" xml:space="preserve">
     <value>切换 窗口/全屏 模式</value>
@@ -977,7 +977,7 @@
     <value>授权访问文件</value>
   </data>
   <data name="FileOpenFailureDescription.Text" xml:space="preserve">
-    <value>Light 播放器没有访问这些文件的权限，请使用文件选取器授权应用访问，或者将文件拖动到此处。</value>
+    <value>Dark 播放器没有访问这些文件的权限，请使用文件选取器授权应用访问，或者将文件拖动到此处。</value>
   </data>
   <data name="NoLrcSourcePromptPart1.Text" xml:space="preserve">
     <value>没有可用的歌词来源。
@@ -996,10 +996,10 @@
     <value>歌词。</value>
   </data>
   <data name="AccessAuthorizeSuggestDetailed.Text" xml:space="preserve">
-    <value>Light 播放器默认不会扫描这些目录下的文件，如果你打开了包含这些目录下的音乐的 cue 或者播放列表文件，Light 播放器可以直接播放它们而无需打搅你。</value>
+    <value>Dark 播放器默认不会扫描这些目录下的文件，如果你打开了包含这些目录下的音乐的 cue 或者播放列表文件，Dark 播放器可以直接播放它们而无需打搅你。</value>
   </data>
   <data name="AlreadyHaveAccessPrompt" xml:space="preserve">
-    <value>Light 播放器已经能访问这些目录，无需再次添加。</value>
+    <value>Dark 播放器已经能访问这些目录，无需再次添加。</value>
   </data>
   <data name="FileAccessIntro.Text" xml:space="preserve">
     <value>选择播放器可以访问的目录</value>
@@ -1152,7 +1152,7 @@
     <value>主题与语言</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Light 播放器</value>
+    <value>Dark 播放器</value>
   </data>
   <data name="AlbumNameGroupDescription" xml:space="preserve">
     <value>按所属专辑进行排序与分组</value>
@@ -1513,5 +1513,11 @@
   </data>
   <data name="NarrowPlaylistToggleButton.Label" xml:space="preserve">
     <value>正在播放</value>
+  </data>
+  <data name="CopyrightL2.Text" xml:space="preserve">
+    <value>@ 2019 Axiom Design 及其他开源组件作者。</value>
+  </data>
+  <data name="CopyrightOSS.Text" xml:space="preserve">
+    <value>若需了解更多有关开放源代码许可的信息，请点击下面的链接。</value>
   </data>
 </root>
